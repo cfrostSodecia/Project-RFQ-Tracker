@@ -1,0 +1,5 @@
+{
+  "name": "Project RFQ Tracker",
+  "description": "A dashboard to visualize Request for Quotation (RFQ) transmissions and receipts for various projects and suppliers, based on data collected from a file system.",
+  "requestFramePermissions": []
+}
